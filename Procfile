@@ -1,1 +1,1 @@
-web: gunicorn django_queue.wsgi
+web: gunicorn miniplataforma.wsgi
